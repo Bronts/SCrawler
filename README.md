@@ -13,8 +13,8 @@ A crawler to scratch datas of delicious
 
 项目依赖
 ========
-本项目使用了几个第三方库来实现一些基本的网页抓取和数据库操作功能，罗列如下：
-1.Jsoup  用于网页的抓取和解析，使用了非常简便的类似CSS选择器，详见：http://jsoup.org
-2.Httpclient  一个强大的Http协议客户端编程工具包，详见：http://hc.apache.org
-3.log4j  一个日志输出工具，用来记录程序运行日志  详见：http://logging.apache.org/log4j/2.x/
-4.MySQL Connector 用于进行数据库操作的驱动包  详见：MySQL Connector
+本项目使用了几个第三方库来实现一些基本的网页抓取和数据库操作功能，罗列如下：       
+1.Jsoup  用于网页的抓取和解析，使用了非常简便的类似CSS选择器，详见：http://jsoup.org    
+2.Httpclient  一个强大的Http协议客户端编程工具包，详见：http://hc.apache.org        
+3.log4j  一个日志输出工具，用来记录程序运行日志  详见：http://logging.apache.org/log4j/2.x/     
+4.MySQL Connector 用于进行数据库操作的驱动包  详见：MySQL Connector      
